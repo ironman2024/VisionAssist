@@ -6,7 +6,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x400.png?text=VisionAssist+Demo" alt="VisionAssist Demo">
+  <img src="Untitled video - Made with Clipchamp.mp4" alt="VisionAssist Demo">
 </div>
 
 VisionAssist is a groundbreaking AI-powered assistant that transforms the way visually impaired individuals interact with their environment. Using state-of-the-art computer vision and natural language processing, it provides real-time audio descriptions of surroundings, making the world more accessible and navigable.
