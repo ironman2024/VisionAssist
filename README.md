@@ -6,7 +6,13 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 <div align="center">
-  <img src="Untitled video - Made with Clipchamp.mp4" alt="VisionAssist Demo">
+  <video width="800" controls>
+    <source src="Untitled video - Made with Clipchamp.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  <p>
+    <em>VisionAssist Demo: Real-time object detection and distance estimation in action</em>
+  </p>
 </div>
 
 VisionAssist is a groundbreaking AI-powered assistant that transforms the way visually impaired individuals interact with their environment. Using state-of-the-art computer vision and natural language processing, it provides real-time audio descriptions of surroundings, making the world more accessible and navigable.
@@ -85,9 +91,6 @@ VisionAssist is a groundbreaking AI-powered assistant that transforms the way vi
 - **Object Detection and Distance Estimation**:
     ```python
     import cv2
-    from ultralytics import YOLO
-    
-    Known_distance = 30  # Inches
     Known_width = 5.7  # Inches
 
     # Load the YOLO model
